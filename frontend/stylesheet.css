@@ -1,0 +1,33 @@
+html, body {
+    margin: 0;
+    background: #efefef;
+}
+
+.pageContainer {
+    display: flex;
+    justify-content: space-between;
+    background: white;
+}
+
+.subContainer {
+    flex: 1 1 auto;
+    width: 50%;
+    padding: 20px;
+}
+
+.subContainer h2 {
+    text-align: center;
+}
+
+#asyncUsersContainer {
+    width: 75%;
+    margin: auto;
+}
+
+.list-group-item p {
+    margin: 0;
+}
+
+#monekDetails {
+    display: none;
+}
