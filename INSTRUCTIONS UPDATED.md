@@ -8,6 +8,13 @@ Ensure the example backend is running correctly using the test request button in
 # Task Overview
 Your task is to create a user register system by creating a storage system of your choice
 The application must be able to add new users, view current users and update details for a user.
+There are two types of user, Monek User and a regular user
+
+The endpoints required are:
+Get by ID,
+Get all by type (Monek/Non monek User)
+Create User
+Update User By Id
 
 # Extra Information
 - The PHP api should be RESTfull.
