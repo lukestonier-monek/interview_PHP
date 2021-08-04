@@ -1,4 +1,4 @@
 <?php
-    require_once('./Userservice.php');
-    echo Userservice::GetUsers();
+    require_once('./UserService.php');
+    echo UserService::GetUsers();
 ?>
